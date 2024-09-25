@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "axios": "^1.7.7",
-    "blogforge-application": "file:..",
+    "blogforge-application": "file:../blogforge-application", 
     "js-cookie": "^3.0.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
